@@ -1,9 +1,4 @@
-# VibeVista
-
-## 소개글
-- https://bit.ly/454tQMa
-
-## Hi there 👋
+# VibeVista 👋
 
 <a href="https://www.gitanimals.org/">
   <img
@@ -13,3 +8,6 @@
     alt="gitanimals"
   />
 </a>
+
+## 소개글
+- https://bit.ly/454tQMa
